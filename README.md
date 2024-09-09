@@ -1,7 +1,7 @@
 
 # HOUSECCON 2024 Presentation
 Created By:Brad Voris <BR />
-Description: 
+Description: A copy of my presentation for HOUSECCON 2024. The presentation shows how to use MITRE ATT&CK Framework for Threat Modeling.
 <BR /><BR />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
@@ -13,7 +13,9 @@ Description:
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/houseccon2024presentation">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/houseccon2024presentation">
 
-## Links
+## Resource Links
+<BR /><BR />
+
 ## Additional Training
 
 <BR /><BR />
