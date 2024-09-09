@@ -4,8 +4,8 @@
 Created By:Brad Voris <BR />
 Description: A copy of my presentation for HOUSECCON 2024. The presentation shows how to use MITRE ATT&CK Framework for Threat Modeling.
 <BR /><BR />
-## The link to the presentation
 
+## Link To the Presentation
 <BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
