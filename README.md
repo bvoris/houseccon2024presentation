@@ -3,7 +3,9 @@
 <IMG SRC="https://github.com/bvoris/houseccon2024presentation/blob/main/flyer.jpg">
 Created By:Brad Voris <BR />
 Description: A copy of my presentation for HOUSECCON 2024. The presentation shows how to use MITRE ATT&CK Framework for Threat Modeling.
+## The link to the presentation
 
+<BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
 https://attack.mitre.org/<BR />
@@ -13,6 +15,7 @@ https://attack.mitre.org/campaigns/<BR />
 https://attack.mitre.org/resources/learn-more-about-attack/training/<BR />
 https://github.com/bvoris/mitreattackthreatmodeling<BR />
 <BR /><BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
