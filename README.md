@@ -13,6 +13,8 @@ Description:
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/houseccon2024presentation">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/houseccon2024presentation">
 
+## Links
+## Additional Training
 
 <BR /><BR />
 ## Connect with me at
