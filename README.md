@@ -21,7 +21,8 @@ https://github.com/bvoris/mitreattackthreatmodeling<BR />
 <BR /><BR />
 
 ## Other MITRE Related Training
-https://atlas.mitre.org/navigator/
+https://mitre-atlas.github.io/atlas-navigator/<BR />
+https://atlas.mitre.org/navigator/<BR />
 <BR /><BR />
 
 ## Connect with me at
