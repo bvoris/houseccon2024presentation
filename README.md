@@ -14,9 +14,14 @@ https://mitre-attack.github.io/attack-navigator/<BR />
 https://attack.mitre.org/<BR />
 https://attack.mitre.org/campaigns/<BR />
 <BR /><BR />
+
 ## Additional Training
 https://attack.mitre.org/resources/learn-more-about-attack/training/<BR />
 https://github.com/bvoris/mitreattackthreatmodeling<BR />
+<BR /><BR />
+
+## Other MITRE Related Training
+https://atlas.mitre.org/navigator/
 <BR /><BR />
 
 ## Connect with me at
