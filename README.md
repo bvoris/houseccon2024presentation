@@ -22,10 +22,10 @@ https://github.com/bvoris/mitreattackthreatmodeling<BR />
 
 ## Other MITRE Related Training
 https://mitre-atlas.github.io/atlas-navigator/<BR />
-https://atlas.mitre.org/navigator/<BR />
-https://attack.mitre.org/matrices/enterprise/windows/<BR />
-https://attack.mitre.org/matrices/enterprise/macos/<BR />
-https://attack.mitre.org/matrices/enterprise/linux/<BR />
+https://atlas.mitre.org/navigator/ - Large Language Models<BR />
+https://attack.mitre.org/matrices/enterprise/windows/ - For Windows environments<BR />
+https://attack.mitre.org/matrices/enterprise/macos/ - For Mac OS environments<BR />
+https://attack.mitre.org/matrices/enterprise/linux/ - For Linux environments<BR />
 https://attack.mitre.org/matrices/enterprise/cloud/<BR />
 https://attack.mitre.org/matrices/enterprise/cloud/office365/<BR />
 https://attack.mitre.org/matrices/enterprise/cloud/azuread/<BR />
