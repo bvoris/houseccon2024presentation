@@ -26,18 +26,18 @@ https://atlas.mitre.org/navigator/ - Large Language Models<BR />
 https://attack.mitre.org/matrices/enterprise/windows/ - For Windows environments<BR />
 https://attack.mitre.org/matrices/enterprise/macos/ - For Mac OS environments<BR />
 https://attack.mitre.org/matrices/enterprise/linux/ - For Linux environments<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/office365/<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/azuread/<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/googleworkspace/<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/saas/<BR />
-https://attack.mitre.org/matrices/enterprise/cloud/iaas/<BR />
-https://attack.mitre.org/matrices/enterprise/network/<BR />
-https://attack.mitre.org/matrices/enterprise/containers/<BR />
-https://attack.mitre.org/matrices/mobile/<BR />
-https://attack.mitre.org/matrices/mobile/android/<BR />
-https://attack.mitre.org/matrices/mobile/ios/<BR />
-https://attack.mitre.org/matrices/ics/<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/ - For cloud environments<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/office365/ - For Office 365<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/azuread/ - For Azure Cloud environments<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/googleworkspace/ - For Google Workspace<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/saas/ - For SaaS Software As A Service<BR />
+https://attack.mitre.org/matrices/enterprise/cloud/iaas/ - For Infrastrcture As A Service<BR />
+https://attack.mitre.org/matrices/enterprise/network/ - For Network Devices<BR />
+https://attack.mitre.org/matrices/enterprise/containers/ - For Containers<BR />
+https://attack.mitre.org/matrices/mobile/ - For Mobile environments<BR />
+https://attack.mitre.org/matrices/mobile/android/ - For Android devices<BR />
+https://attack.mitre.org/matrices/mobile/ios/ - For IOS devices<BR />
+https://attack.mitre.org/matrices/ics/ - For Industrial Control Systems<BR />
 <BR /><BR />
 
 ## Connect with me at
