@@ -8,6 +8,7 @@ Description: A copy of my presentation for HOUSECCON 2024. The presentation show
 ## Link To the Presentation
 <a href="https://github.com/bvoris/houseccon2024presentation/raw/main/Brad%20Voris%20-%20MITRE%20Attack%20Framework%20Threat%20Modeling%20Presentation.pdf"> Presentation in PDF </a><BR />
 <a href="https://github.com/bvoris/houseccon2024presentation/raw/main/Brad%20Voris%20-%20MITRE%20Attack%20Framework%20Threat%20Modeling%20Presentation.pptx"> Presentation in PowerPoint</a><BR />
+LINK to the recording of the presentation<BR />
 <BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
