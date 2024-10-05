@@ -10,8 +10,7 @@ Description: A copy of my presentation for HOUSECCON 2024. The presentation show
 <a href="https://github.com/bvoris/houseccon2024presentation/raw/main/Brad%20Voris%20-%20MITRE%20Attack%20Framework%20Threat%20Modeling%20Presentation.pptx"> Presentation in PowerPoint</a><BR />
 LINK to the recording of the presentation<BR />
 
-[![Threat Modeling with MITRE ATT&ACK Framework]          // Title
-(https://www.youtube.com/watch?v=BhuFZ_4syVU "By: Brad Voris")    // Video Link
+[<img src="https://i.ytimg.com/vi/BhuFZ_4syVU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=BhuFZ_4syVU "By: Brad Voris")
 
 https://www.youtube.com/watch?v=BhuFZ_4syVU
 <BR />
