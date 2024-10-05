@@ -11,6 +11,7 @@ Description: A copy of my presentation for HOUSECCON 2024. The presentation show
 LINK to the recording of the presentation<BR />
 
 [<img src="https://i.ytimg.com/vi/BhuFZ_4syVU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=BhuFZ_4syVU "By: Brad Voris")
+[![YouTube](http://i.ytimg.com/vi/BhuFZ_4syVU/hqdefault.jpg)](https://www.youtube.com/watch?v=BhuFZ_4syVU)
 <BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
