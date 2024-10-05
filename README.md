@@ -14,6 +14,7 @@ LINK to the recording of the presentation<BR />
 
 https://www.youtube.com/watch?v=BhuFZ_4syVU
 <BR />
+[![Threat Modeling with MITRE ATT&CK Framework By Brad Voris](https://img.youtube.com/vi/BhuFZ_4syVU/0.jpg)](https://www.youtube.com/watch?v=BhuFZ_4syVU)
 <BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
