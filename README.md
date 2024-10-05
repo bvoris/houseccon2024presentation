@@ -12,12 +12,6 @@ LINK to the recording of the presentation<BR />
 
 [<img src="https://i.ytimg.com/vi/BhuFZ_4syVU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=BhuFZ_4syVU "By: Brad Voris")
 
-
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=BhuFZ_4syVU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 <BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
