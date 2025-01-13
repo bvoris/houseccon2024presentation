@@ -13,6 +13,8 @@ LINK to the recording of the presentation<BR />
 [<img src="https://i.ytimg.com/vi/BhuFZ_4syVU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=BhuFZ_4syVU "By: Brad Voris")
 
 <BR /><BR />
+<a href="https://www.youtube.com/watch?v=BhuFZ_4syVU"> Presentation on Youtube</a>
+<BR /><BR />
 ## Resource Links
 https://mitre-attack.github.io/attack-navigator/<BR />
 https://attack.mitre.org/<BR />
